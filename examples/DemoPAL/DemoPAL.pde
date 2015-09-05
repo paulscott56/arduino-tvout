@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <TVout.h>
 #include <fontALL.h>
 #include "schematic.h"
